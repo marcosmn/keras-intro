@@ -1,4 +1,7 @@
 # keras-intro
+## Atividade Prática - Datacamp + Wandb
+
+Trabalho feito para a disciplina de Aprendizado Profundo. Com dropout variando entre 0.01 e 0.80 os resultados medios obtidos foram:
 
 ![alt text](https://github.com/marcosmn/keras-intro/blob/main/accuracy.png?raw=true)
 
